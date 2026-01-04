@@ -50,9 +50,9 @@
     "url": "https://back.adoremont.com/",
     "icon": "https://icons.duckduckgo.com/ip3/back.adoremont.com.ico",
     "slug": "adoremontbacksystem-fountend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -62,6 +62,7 @@
     "timeMonth": 1090,
     "timeYear": 1061,
     "dailyMinutesDown": {
+      "2026-01-04": 0,
       "2025-09-15": 61
     }
   }
