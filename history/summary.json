@@ -4,10 +4,10 @@
     "url": "https://adoremont.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/adoremont.com.ico",
     "slug": "adoremont-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1123,
@@ -16,6 +16,7 @@
     "timeMonth": 1105,
     "timeYear": 1123,
     "dailyMinutesDown": {
+      "2026-02-28": 1,
       "2025-09-15": 62,
       "2025-09-05": 70,
       "2025-08-19": 64,
@@ -29,10 +30,10 @@
     "url": "https://backapi.adoremont.com/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/backapi.adoremont.com.ico",
     "slug": "adoremontbacksystem-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1107,
@@ -41,6 +42,7 @@
     "timeMonth": 1084,
     "timeYear": 1107,
     "dailyMinutesDown": {
+      "2026-02-28": 1,
       "2025-11-02": 36,
       "2025-09-15": 61
     }
@@ -50,9 +52,9 @@
     "url": "https://back.adoremont.com/",
     "icon": "https://icons.duckduckgo.com/ip3/back.adoremont.com.ico",
     "slug": "adoremontbacksystem-fountend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -62,6 +64,7 @@
     "timeMonth": 1054,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2026-02-28": 0,
       "2026-02-13": 37,
       "2026-01-04": 21,
       "2025-09-15": 61
