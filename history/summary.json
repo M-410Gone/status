@@ -4,12 +4,12 @@
     "url": "https://adoremont.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/adoremont.com.ico",
     "slug": "adoremont-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.53%",
     "time": 1104,
     "timeDay": 665,
     "timeWeek": 1003,
@@ -21,7 +21,8 @@
       "2025-09-15": 62,
       "2026-03-01": 1335,
       "2026-02-28": 807,
-      "2026-03-02": 104
+      "2026-03-02": 104,
+      "2026-07-02": 10
     }
   },
   {
@@ -29,11 +30,11 @@
     "url": "https://backapi.adoremont.com/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/backapi.adoremont.com.ico",
     "slug": "adoremontbacksystem-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.43%",
     "time": 1090,
     "timeDay": 753,
@@ -46,7 +47,8 @@
       "2026-03-01": 1335,
       "2026-02-28": 807,
       "2026-03-02": 104,
-      "2026-04-01": 45
+      "2026-04-01": 45,
+      "2026-07-02": 5
     }
   },
   {
@@ -54,12 +56,12 @@
     "url": "https://back.adoremont.com/",
     "icon": "https://icons.duckduckgo.com/ip3/back.adoremont.com.ico",
     "slug": "adoremontbacksystem-fountend",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 1043,
     "timeDay": 624,
     "timeWeek": 971,
@@ -71,7 +73,8 @@
       "2026-02-13": 37,
       "2026-02-28": 761,
       "2026-03-01": 1334,
-      "2026-03-02": 104
+      "2026-03-02": 104,
+      "2026-07-02": 0
     }
   }
 ]
