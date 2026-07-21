@@ -34,17 +34,17 @@
     "url": "https://backapi.adoremont.com/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/backapi.adoremont.com.ico",
     "slug": "adoremontbacksystem-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.85%",
     "uptimeYear": "98.27%",
-    "time": 1087,
-    "timeDay": 960,
-    "timeWeek": 968,
-    "timeMonth": 1007,
-    "timeYear": 1087,
+    "time": 1093,
+    "timeDay": 2052,
+    "timeWeek": 1240,
+    "timeMonth": 1083,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-09-15": 61,
       "2025-11-02": 36,
@@ -56,7 +56,8 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
-      "2026-07-02": 635
+      "2026-07-02": 635,
+      "2026-07-21": 0
     }
   },
   {
