@@ -1,7 +1,7 @@
 url: https://backapi.adoremont.com/api/v1/health
-status: up
+status: degraded
 code: 200
-responseTime: 828
-lastUpdated: 2026-08-11T23:26:15.318Z
+responseTime: 3055
+lastUpdated: 2026-08-12T15:42:57.145Z
 startTime: 2025-09-14T13:39:05.244Z
 generator: Upptime <https://github.com/upptime/upptime>
